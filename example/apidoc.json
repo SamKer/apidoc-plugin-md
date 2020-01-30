@@ -1,0 +1,20 @@
+
+{
+  "name": "markdown-example",
+  "version": "1.0.0",
+  "description": "markdown apidoc example project",
+  "title": "Custom Markdown browser title",
+  "url" : "",
+  "header": {
+    "title": "Api from Markdown",
+    "filename": "header.md"
+  },
+  "footer": {
+    "title": "Footer Markdown",
+    "filename": "footer.md"
+  },
+  "template": {
+  	"withCompare": true,
+  	"withGenerator": true
+  }
+}
